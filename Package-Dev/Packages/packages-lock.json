@@ -60,6 +60,15 @@
         "com.unity.nuget.newtonsoft-json": "3.2.2"
       }
     },
+    "com.mutant.ugui": {
+      "version": "file:com.mutant.ugui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.ugui": "2.0.0",
+        "com.mutant.expansion": "0.1.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.8.28",
       "depth": 1,

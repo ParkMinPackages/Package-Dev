@@ -4,3 +4,6 @@
 [submodule "Package-Dev/Packages/com.mutant.expansion"]
 	path = Package-Dev/Packages/com.mutant.expansion
 	url = https://github.com/Mutant-UnityPackages/Expansion.git
+[submodule "Package-Dev/Packages/com.mutant.ugui"]
+	path = Package-Dev/Packages/com.mutant.ugui
+	url = https://github.com/Mutant-UnityPackages/UGUI.git
