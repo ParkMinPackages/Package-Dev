@@ -1,0 +1,6 @@
+[submodule "Package-Dev/Packages/com.mutant.packagemanager"]
+	path = Package-Dev/Packages/com.mutant.packagemanager
+	url = https://github.com/Mutant-Ai-Kr/Mutant.PackageManager.git
+[submodule "Package-Dev/Packages/com.mutant.expansion"]
+	path = Package-Dev/Packages/com.mutant.expansion
+	url = https://github.com/Mutant-UnityPackages/Expansion.git
