@@ -48,7 +48,9 @@
       "version": "file:com.mutant.expansion",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.cysharp.r3": "1.3.0"
+      }
     },
     "com.mutant.packagemanager": {
       "version": "file:com.mutant.packagemanager",
