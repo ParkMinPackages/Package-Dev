@@ -51,29 +51,29 @@
       "dependencies": {},
       "hash": "9b5989b98f668c7ef409b3c5a1d5192612703eb5"
     },
-    "com.mutant.expansion": {
-      "version": "file:com.mutant.expansion",
+    "com.parkminpackages.expansion": {
+      "version": "file:com.parkminpackages.expansion",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.cysharp.r3": "1.3.0"
       }
     },
-    "com.mutant.packagemanager": {
-      "version": "file:com.mutant.packagemanager",
+    "com.parkminpackages.packagemanager": {
+      "version": "file:com.parkminpackages.packagemanager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.2.2"
       }
     },
-    "com.mutant.ugui": {
-      "version": "file:com.mutant.ugui",
+    "com.parkminpackages.ugui": {
+      "version": "file:com.parkminpackages.ugui",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
         "com.unity.ugui": "2.0.0",
-        "com.mutant.expansion": "0.1.0",
+        "com.parkminpackages.expansion": "1.1.2",
         "com.cysharp.unitask": "2.5.10",
         "com.cysharp.r3": "1.3.0"
       }
