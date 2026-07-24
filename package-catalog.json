@@ -1,7 +1,7 @@
 {
   "packages": [
     { "repository": "Expansion", "displayName": "ParkMinPackages Expansion", "packageName": "com.parkminpackages.expansion", "gitUrl": "https://github.com/ParkMinPackages/Expansion.git", "version": "3.0.1" },
-    { "repository": "PackageManager", "displayName": "ParkMinPackages Package Manager", "packageName": "com.parkminpackages.packagemanager", "gitUrl": "https://github.com/ParkMinPackages/PackageManager.git", "version": "2.1.1" },
+    { "repository": "PackageManager", "displayName": "ParkMinPackages Package Manager", "packageName": "com.parkminpackages.packagemanager", "gitUrl": "https://github.com/ParkMinPackages/PackageManager.git", "version": "2.1.2" },
     { "repository": "UGUI", "displayName": "ParkMinPackages UGUI", "packageName": "com.parkminpackages.ugui", "gitUrl": "https://github.com/ParkMinPackages/UGUI.git", "version": "4.0.0" }
   ]
 }
