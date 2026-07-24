@@ -1,9 +1,9 @@
 [submodule "Package-Dev/Packages/com.mutant.packagemanager"]
 	path = Package-Dev/Packages/com.parkminpackages.packagemanager
 	url = https://github.com/ParkMinPackages/PackageManager.git
-[submodule "Package-Dev/Packages/com.mutant.expansion"]
-	path = Package-Dev/Packages/com.parkminpackages.expansion
-	url = https://github.com/ParkMinPackages/Expansion.git
+[submodule "Package-Dev/Packages/com.parkminpackages.foundation"]
+	path = Package-Dev/Packages/com.parkminpackages.foundation
+	url = https://github.com/ParkMinPackages/Foundation.git
 [submodule "Package-Dev/Packages/com.mutant.ugui"]
 	path = Package-Dev/Packages/com.parkminpackages.ugui
 	url = https://github.com/ParkMinPackages/UGUI.git

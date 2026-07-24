@@ -51,8 +51,8 @@
       "dependencies": {},
       "hash": "9b5989b98f668c7ef409b3c5a1d5192612703eb5"
     },
-    "com.parkminpackages.expansion": {
-      "version": "file:com.parkminpackages.expansion",
+    "com.parkminpackages.foundation": {
+      "version": "file:com.parkminpackages.foundation",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
@@ -73,7 +73,7 @@
       "source": "embedded",
       "dependencies": {
         "com.unity.ugui": "2.0.0",
-        "com.parkminpackages.expansion": "3.0.0",
+        "com.parkminpackages.foundation": "3.0.1",
         "com.cysharp.unitask": "2.5.10",
         "com.cysharp.r3": "1.3.0"
       }
