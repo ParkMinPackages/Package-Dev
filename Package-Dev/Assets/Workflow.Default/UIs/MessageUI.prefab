@@ -175,7 +175,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b0e4899758fb4868b6c5c2e47d897118, type: 3}
   m_Name:
-  m_EditorClassIdentifier: ParkMinPackages.Workflow.Default::com.parkminpackages.workflow.Default.Components.UIs.MessageUI
+  m_EditorClassIdentifier: ParkMinPackages.Workflow.Default::ParkMinPackages.Workflow.Default.Components.UIs.MessageUI
   _id:
   _panel: {fileID: 8397761385593691001}
   _titleText: {fileID: 835356266760665348}

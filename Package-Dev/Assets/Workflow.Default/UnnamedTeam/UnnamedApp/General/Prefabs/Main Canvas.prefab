@@ -35,7 +35,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0.5}
   m_AnchorMax: {x: 1, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_SizeDelta: {x: 10000, y: 10000}
   m_Pivot: {x: 0, y: 0.5}
 --- !u!222 &5869736780186937021
 CanvasRenderer:
@@ -110,7 +110,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_SizeDelta: {x: 10000, y: 10000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &6275130870944524215
 CanvasRenderer:
@@ -159,8 +159,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8743001492809117607}
+  - component: {fileID: 357963502222150508}
   m_Layer: 0
-  m_Name: UI Root (1920 1080)
+  m_Name: UI Root (1920x1080)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -185,6 +186,19 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &357963502222150508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2390543260287712627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6932e13e0a4a1daf75a1ba331b32cd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: ParkMinPackages.Workflow.Default::ParkMinPackages.Workflow.Default.Components.UIs.UIRoot
+  _id:
 --- !u!1 &3082050462549471136
 GameObject:
   m_ObjectHideFlags: 0
@@ -220,7 +234,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_SizeDelta: {x: 10000, y: 10000}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &867860684450289535
 CanvasRenderer:
@@ -272,6 +286,7 @@ GameObject:
   - component: {fileID: 2114364180493344800}
   - component: {fileID: 1616794793455016123}
   - component: {fileID: 5384415640236387496}
+  - component: {fileID: 2822779627048710984}
   m_Layer: 0
   m_Name: Main Canvas
   m_TagString: Untagged
@@ -364,6 +379,23 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 55
+--- !u!114 &2822779627048710984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3238273914173513680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b70d387ce83448e88fe2b83ddfd90d74, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: ParkMinPackages.Workflow.Default::ParkMinPackages.Workflow.Default.Components.Helpers.CanvasResolutionHelper
+  _canvasScaler: {fileID: 1616794793455016123}
+  _uiRoot: {fileID: 8743001492809117607}
+  _windowBox: {fileID: 6712212943918709704}
+  _width: 1920
+  _height: 1080
 --- !u!1 &5737888821650781017
 GameObject:
   m_ObjectHideFlags: 0
@@ -373,8 +405,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6712212943918709704}
+  - component: {fileID: 400906073834651050}
   m_Layer: 0
-  m_Name: LetterBoxing (1920 1080)
+  m_Name: Window Box (1920x1080)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -403,6 +436,20 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &400906073834651050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5737888821650781017}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfc412e88a634fe9a302ab24a4f82ce9, type: 3}
+  m_Name:
+  m_EditorClassIdentifier: ParkMinPackages.Foundation::ParkMinPackages.Foundation.Components.SceneVisibilityLocker
+  _sceneVisibility: 0
+  _scenePicking: 0
 --- !u!1 &6084442371811430133
 GameObject:
   m_ObjectHideFlags: 0
@@ -438,7 +485,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0.5}
   m_AnchorMax: {x: 0, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_SizeDelta: {x: 10000, y: 10000}
   m_Pivot: {x: 1, y: 0.5}
 --- !u!222 &8445246972828951381
 CanvasRenderer:
