@@ -84,7 +84,7 @@
       "source": "embedded",
       "dependencies": {
         "com.parkminpackages.foundation": "5.2.0",
-        "com.parkminpackages.ugui": "5.0.0",
+        "com.parkminpackages.ugui": "6.0.0",
         "com.unity.inputsystem": "1.19.0",
         "com.cysharp.unitask": "2.5.10",
         "com.cysharp.r3": "1.3.0",
