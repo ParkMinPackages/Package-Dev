@@ -67,6 +67,12 @@
         "com.unity.nuget.newtonsoft-json": "3.2.2"
       }
     },
+    "com.parkminpackages.sqlitetoolkit": {
+      "version": "file:com.parkminpackages.sqlitetoolkit",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.parkminpackages.ugui": {
       "version": "file:com.parkminpackages.ugui",
       "depth": 0,
