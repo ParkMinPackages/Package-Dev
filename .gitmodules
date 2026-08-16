@@ -10,3 +10,6 @@
 [submodule "Package-Dev/Packages/com.parkminpackages.workflow.default"]
 	path = Package-Dev/Packages/com.parkminpackages.workflow.default
 	url = https://github.com/ParkMinPackages/Workflow-Default.git
+[submodule "Package-Dev/Packages/com.parkminpackages.sqlitetoolkit"]
+	path = Package-Dev/Packages/com.parkminpackages.sqlitetoolkit
+	url = https://github.com/ParkMinPackages/SQLite-Toolkit.git
