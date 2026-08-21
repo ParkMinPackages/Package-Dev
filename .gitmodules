@@ -13,3 +13,6 @@
 [submodule "Package-Dev/Packages/com.parkminpackages.sqlitetoolkit"]
 	path = Package-Dev/Packages/com.parkminpackages.sqlitetoolkit
 	url = https://github.com/ParkMinPackages/SQLite-Toolkit.git
+[submodule "Package-Dev/Packages/com.parkminpackages.workflow.minimap"]
+	path = Package-Dev/Packages/com.parkminpackages.workflow.minimap
+	url = https://github.com/ParkMinPackages/Workflow-Minimap.git
