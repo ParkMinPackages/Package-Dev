@@ -16,3 +16,9 @@
 [submodule "Package-Dev/Packages/com.parkminpackages.workflow.minimap"]
 	path = Package-Dev/Packages/com.parkminpackages.workflow.minimap
 	url = https://github.com/ParkMinPackages/Workflow-Minimap.git
+[submodule "Package-Dev/Packages/com.parkminpackages.mediapipe"]
+	path = Package-Dev/Packages/com.parkminpackages.mediapipe
+	url = https://github.com/ParkMinPackages/MediaPipeUnityPlugin-UPM.git
+[submodule "Package-Dev/Packages/com.parkminpackages.mediapipeplugintoolkit"]
+	path = Package-Dev/Packages/com.parkminpackages.mediapipeplugintoolkit
+	url = https://github.com/ParkMinPackages/MediaPipePlugin-Toolkit.git
