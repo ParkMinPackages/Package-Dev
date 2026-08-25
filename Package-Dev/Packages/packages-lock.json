@@ -57,6 +57,21 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "com.parkminpackages.mediapipe": {
+      "version": "file:com.parkminpackages.mediapipe",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.test-framework": "1.0.0"
+      }
+    },
+    "com.parkminpackages.mediapipeplugintoolkit": {
+      "version": "file:com.parkminpackages.mediapipeplugintoolkit",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.parkminpackages.packagemanager": {
       "version": "file:com.parkminpackages.packagemanager",
       "depth": 0,
@@ -260,7 +275,7 @@
     },
     "com.unity.test-framework": {
       "version": "1.7.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.1.0",
