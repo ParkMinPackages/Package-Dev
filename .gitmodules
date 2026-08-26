@@ -22,3 +22,11 @@
 [submodule "Package-Dev/Packages/com.parkminpackages.mediapipeplugintoolkit"]
 	path = Package-Dev/Packages/com.parkminpackages.mediapipeplugintoolkit
 	url = https://github.com/ParkMinPackages/MediaPipePlugin-Toolkit.git
+[submodule "MediaPipe-NativeRuntime"]
+	path = MediaPipe-NativeRuntime
+	url = https://github.com/ParkMinPackages/MediaPipe-NativeRuntime.git
+	shallow = true
+[submodule "Package-Dev/Packages/com.parkminpackages.mediapipeplugin"]
+	path = Package-Dev/Packages/com.parkminpackages.mediapipeplugin
+	url = https://github.com/ParkMinPackages/MediaPipePlugin.git
+	shallow = true

@@ -66,6 +66,12 @@
         "com.unity.test-framework": "1.0.0"
       }
     },
+    "com.parkminpackages.mediapipeplugin": {
+      "version": "file:com.parkminpackages.mediapipeplugin",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.parkminpackages.mediapipeplugintoolkit": {
       "version": "file:com.parkminpackages.mediapipeplugintoolkit",
       "depth": 0,
