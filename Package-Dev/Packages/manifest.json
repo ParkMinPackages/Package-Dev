@@ -6,6 +6,7 @@
     "com.eflatun.scenereference": "git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm",
     "com.gitamend.unityutils": "https://github.com/adammyhre/Unity-Utils.git",
     "com.github-glitchenzo.nugetforunity": "https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity",
+    "com.parkminpackages.mediapipe.nativeruntime": "https://github.com/ParkMinPackages/MediaPipe-NativeRuntime.git?path=/UPMPackage",
     "com.unity.ai.assistant": "2.18.0-pre.2",
     "com.unity.ai.inference": "2.6.1",
     "com.unity.ide.rider": "3.0.40",

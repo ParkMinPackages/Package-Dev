@@ -57,23 +57,15 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.parkminpackages.mediapipe": {
-      "version": "file:com.parkminpackages.mediapipe",
+    "com.parkminpackages.mediapipe.nativeruntime": {
+      "version": "https://github.com/ParkMinPackages/MediaPipe-NativeRuntime.git?path=/UPMPackage",
       "depth": 0,
-      "source": "embedded",
-      "dependencies": {
-        "com.unity.ugui": "1.0.0",
-        "com.unity.test-framework": "1.0.0"
-      }
+      "source": "git",
+      "dependencies": {},
+      "hash": "a997fc059b1bd11e5868b4351efafcfaa0565db0"
     },
     "com.parkminpackages.mediapipeplugin": {
       "version": "file:com.parkminpackages.mediapipeplugin",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
-    "com.parkminpackages.mediapipeplugintoolkit": {
-      "version": "file:com.parkminpackages.mediapipeplugintoolkit",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
@@ -281,7 +273,7 @@
     },
     "com.unity.test-framework": {
       "version": "1.7.0",
-      "depth": 1,
+      "depth": 2,
       "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.1.0",
