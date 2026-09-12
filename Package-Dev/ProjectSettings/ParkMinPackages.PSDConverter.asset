@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: ParkMinPackages.UGUI.Editor::ParkMinPackages.UGUI.Editor.PSDConverterSettings
   _outputFolder: Assets/Ignore/PSD Workflow
+  _textOutput: 0
   _defaultLegacyFont: {fileID: 12800000, guid: 4fc7cafd4f9eb7640bdca160a369603b, type: 3}
   _defaultTMPFont: {fileID: 11400000, guid: 3b2ed147f6a75144bb57440b1de4a8fd, type: 2}
   _missingFontPolicy: 0
@@ -28,3 +29,4 @@ MonoBehaviour:
   - _postScriptName: AdobeGothicStd-Bold
     _legacyFont: {fileID: 0}
     _tmpFont: {fileID: 0}
+  _imageLayers: []
