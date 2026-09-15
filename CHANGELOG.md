@@ -2,6 +2,10 @@
 
 ## 2026-09-15
 
+### Fixed
+- Reverted Foundation to 10.1.1, UGUI to 14.0.0, and Workflow.Default to explicit cancellation-token ownership.
+- Updated Workflow.Default to 10.0.1 so cancelled timed UI is immediately deactivated.
+
 ### Added
 - Added Unity Pipeline 0.7.0-exp.1 to the PackageDev development project.
 
