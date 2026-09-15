@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-09-15
+
+### Added
+- Added Unity Pipeline 0.7.0-exp.1 to the PackageDev development project.
+
+### Changed
+- Updated Foundation to 10.2.0 with current-token access for auto-renewing cancellation sources.
+- Updated UGUI to 15.0.0 with activation-request ownership, optional cancellation tokens, and replaceable transitions.
+- Updated Workflow.Default to 10.1.0 to delegate show/hide cancellation to UGUI and cancel timed displays on newer requests.
+
 ## 2026-09-12
 
 ### Fixed
