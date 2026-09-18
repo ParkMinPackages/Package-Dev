@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-18
+
+### Added
+- Added ParkMinPackages.UGUI.Blur 1.0.0 as a dedicated URP background-blur package and PackageDev submodule.
+
 ## 2026-09-15
 
 ### Fixed

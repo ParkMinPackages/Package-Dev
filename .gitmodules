@@ -24,3 +24,6 @@
 	path = Package-Dev/Packages/com.parkminpackages.mediapipeplugin
 	url = https://github.com/ParkMinPackages/MediaPipePlugin.git
 	shallow = true
+[submodule "Package-Dev/Packages/com.parkminpackages.ugui.blur"]
+	path = Package-Dev/Packages/com.parkminpackages.ugui.blur
+	url = https://github.com/ParkMinPackages/UGUI-Blur.git

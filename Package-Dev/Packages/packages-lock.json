@@ -95,6 +95,15 @@
         "com.unity.ugui": "2.5.0"
       }
     },
+    "com.parkminpackages.ugui.blur": {
+      "version": "file:com.parkminpackages.ugui.blur",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.ugui": "2.5.0",
+        "com.unity.render-pipelines.universal": "17.5.0"
+      }
+    },
     "com.parkminpackages.workflow.default": {
       "version": "file:com.parkminpackages.workflow.default",
       "depth": 0,
