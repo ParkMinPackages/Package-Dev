@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7906d36253c72434b940bd0784287ec5, type: 3}
-  m_Name: UIBlurRendererFeature
-  m_EditorClassIdentifier: ParkMinPackages.UGUI.Blur::ParkMinPackages.UGUI.Blur.RendererFeatures.UIBlurRendererFeature
+  m_Name: BlurImageRendererFeature
+  m_EditorClassIdentifier: ParkMinPackages.UGUI.Blur::ParkMinPackages.UGUI.Blur.RendererFeatures.BlurImageRendererFeature
   m_Active: 1
   _blurShader: {fileID: 4800000, guid: ecf4e08f664b8fb4f89ce8cc46dec8fa, type: 3}
 --- !u!114 &11400000
