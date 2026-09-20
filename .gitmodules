@@ -13,3 +13,17 @@
 [submodule "Package-Dev/Packages/com.parkminpackages.sqlitetoolkit"]
 	path = Package-Dev/Packages/com.parkminpackages.sqlitetoolkit
 	url = https://github.com/ParkMinPackages/SQLite-Toolkit.git
+[submodule "Package-Dev/Packages/com.parkminpackages.workflow.minimap"]
+	path = Package-Dev/Packages/com.parkminpackages.workflow.minimap
+	url = https://github.com/ParkMinPackages/Workflow-Minimap.git
+[submodule "MediaPipe-NativeRuntime"]
+	path = MediaPipe-NativeRuntime
+	url = https://github.com/ParkMinPackages/MediaPipe-NativeRuntime.git
+	shallow = true
+[submodule "Package-Dev/Packages/com.parkminpackages.mediapipeplugin"]
+	path = Package-Dev/Packages/com.parkminpackages.mediapipeplugin
+	url = https://github.com/ParkMinPackages/MediaPipePlugin.git
+	shallow = true
+[submodule "Package-Dev/Packages/com.parkminpackages.ugui.blur"]
+	path = Package-Dev/Packages/com.parkminpackages.ugui.blur
+	url = https://github.com/ParkMinPackages/UGUI-Blur.git
