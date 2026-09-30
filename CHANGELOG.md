@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30
+
+### Changed
+- Upgraded the development project to Unity 6000.6.0f1 and updated its serialized editor, rendering, and auditor settings.
+- Updated Odin Inspector and Validator assets to 4.0.2.4, including assemblies, import metadata, and module information.
+- Updated PSD Importer to 15.0.0, Unity Pipeline to 0.8.0-exp.1, Universal RP to 17.6.0, and Unity UGUI to 2.6.0; refreshed the package lock and added the TetGen module.
+
 ## 2026-09-18
 
 ### Added
