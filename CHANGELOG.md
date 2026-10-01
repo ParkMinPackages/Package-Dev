@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-10-01
+
+### Fixed
+- Aligned ParkMin dependency versions across UGUI 15.0.2, UGUI.Blur 4.3.2, Workflow.Default 10.0.2, Workflow.Minimap 7.0.1, and MediaPipePlugin 0.3.1 with Foundation 10.1.2.
+- Updated the five package submodule references together to keep the dependency declarations consistent.
+
 ## 2026-09-30
 
 ### Changed
