@@ -2,6 +2,10 @@
 
 ## 2026-10-01
 
+### Changed
+- Updated Workflow.Default to 10.0.3 with the reorganized Project Structure sample and sample folder metadata.
+- Updated Workflow.Minimap to 7.0.2 to match its Workflow.Default dependency.
+
 ### Fixed
 - Aligned ParkMin dependency versions across UGUI 15.0.2, UGUI.Blur 4.3.2, Workflow.Default 10.0.2, Workflow.Minimap 7.0.1, and MediaPipePlugin 0.3.1 with Foundation 10.1.2.
 - Updated the five package submodule references together to keep the dependency declarations consistent.
