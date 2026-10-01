@@ -3,6 +3,7 @@
 ## 2026-10-01
 
 ### Changed
+- Updated Workflow.Default to 10.0.4 with the standardized 15-folder project sample and Workflow.Minimap to 7.0.3 with its matching dependency declaration.
 - Updated Workflow.Default to 10.0.3 with the reorganized Project Structure sample and sample folder metadata.
 - Updated Workflow.Minimap to 7.0.2 to match its Workflow.Default dependency.
 
